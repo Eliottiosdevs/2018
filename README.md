@@ -1,15 +1,10 @@
 # 2018
 My personal wishes and goals I want to reach
 
-- [ ] Become a GIT master
+
+## iOS
 
 - [ ] Mastering Swift
-
-- [ ] Learning Ruby
-
-- [ ] Mastering Python
-
-- [x] Learning Django
 
 - [x] Learning CocoaPods
 
@@ -17,11 +12,27 @@ My personal wishes and goals I want to reach
 
 - [ ] Learning SPM
 
+
+## GIT
+
+- [ ] Become a GIT master
+
 - [ ] Working on Open Source
 
 - [ ] 1000 Contributions
 
+
+## Other Languages
+
 - [ ] Creating a Shell app
+
+- [ ] Learning Ruby
+
+- [ ] Mastering Python
+
+- [x] Learning Django
+
+## Others
 
 - [ ] Hacktoberfest 2018
 

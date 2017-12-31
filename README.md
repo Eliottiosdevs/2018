@@ -8,6 +8,8 @@ My personal wishes and goals I want to reach
 
 - [ ] Mastering Swift
 
+- [ ] Creating an AR/VR app in Swift
+
 - [x] Learning CocoaPods
 
 - [x] Learning Carthage

@@ -4,6 +4,8 @@ My personal wishes and goals I want to reach
 
 ## iOS, macOS
 
+- [ ] Using less Storyboards but more code (eg. Swift)
+
 - [ ] Mastering Swift
 
 - [x] Learning CocoaPods
@@ -33,6 +35,8 @@ My personal wishes and goals I want to reach
 ## Other Languages
 
 - [ ] Creating a Shell app
+
+- [x] Creating a Python app
 
 - [ ] Learning Ruby
 

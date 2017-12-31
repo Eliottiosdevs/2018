@@ -6,3 +6,7 @@ My personal wishes and goals I want to reach
 - [ ] Mastering Swift
 
 - [ ] Learning Ruby
+
+- [ ] Mastering Python
+
+- [x] Learning Django

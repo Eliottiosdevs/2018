@@ -37,3 +37,5 @@ My personal wishes and goals I want to reach
 - [ ] Hacktoberfest 2018
 
 - [ ] Participating to 1+ Conference(s)
+
+- [ ] Google Analytics Certification

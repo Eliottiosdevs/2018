@@ -2,7 +2,7 @@
 My personal wishes and goals I want to reach
 
 
-## iOS
+## iOS, macOS
 
 - [ ] Mastering Swift
 
@@ -12,6 +12,14 @@ My personal wishes and goals I want to reach
 
 - [ ] Learning SPM
 
+- [ ] PhotoBooth For macOS Release
+
+
+## Raspberry
+
+- [ ] Creating a working, customizable PhotoBooth.
+
+- [ ] Creating a Smart Mirror
 
 ## GIT
 
@@ -31,6 +39,7 @@ My personal wishes and goals I want to reach
 - [ ] Mastering Python
 
 - [x] Learning Django
+
 
 ## Others
 

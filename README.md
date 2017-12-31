@@ -10,3 +10,7 @@ My personal wishes and goals I want to reach
 - [ ] Mastering Python
 
 - [x] Learning Django
+
+- [x] Learning CocoaPods
+
+- [x] Learning Carthage

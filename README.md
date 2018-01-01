@@ -55,5 +55,5 @@ My personal wishes and goals I want to reach
 
 - [x] Google Analytics Certification Beginner
 
-- [ ] Google Analytics Certification Advanced
+- [x] Google Analytics Certification Advanced
 

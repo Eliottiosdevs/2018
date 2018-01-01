@@ -53,4 +53,7 @@ My personal wishes and goals I want to reach
 
 - [ ] Participating to 1+ Conference(s)
 
-- [ ] Google Analytics Certification
+- [x] Google Analytics Certification Beginner
+
+- [ ] Google Analytics Certification Advanced
+

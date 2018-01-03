@@ -4,7 +4,7 @@ My personal wishes and goals I want to reach
 
 ## iOS, macOS
 
-- [ ] Using less Storyboards but more code (eg. Swift)
+- [x] Using less Storyboards but more code (eg. Swift)
 
 - [ ] Mastering Swift
 
@@ -29,7 +29,7 @@ My personal wishes and goals I want to reach
 
 - [ ] Become a GIT master
 
-- [ ] Working on Open Source
+- [x] Working on Open Source
 
 - [ ] 1000 Contributions
 
